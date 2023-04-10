@@ -1,0 +1,133 @@
+.container-fluid {
+/*	background-image: url('../images/cover.jpg');*/
+	 background-position: center;
+	 background-size: cover;
+	 background-repeat: no-repeat;
+}
+
+
+.logo {
+	height: 60px;
+	border-radius: 50px;
+}
+h2, h1, p {
+	color: whitesmoke;
+	text-align: center;
+}
+
+h2 {
+	margin-top: 100px;
+}
+
+
+.nav-link {
+	color: whitesmoke;
+}
+.nav-link active {
+	color: whitesmoke;
+}
+
+.nav-item {
+	color: whitesmoke;
+}
+
+div ul li a {
+	color: whitesmoke;
+}
+
+.btn {
+	background: transparent;
+	margin-right: 25px;
+	border-radius: 30px;
+	color: orange;
+}
+.btn:hover {
+	background: transparent unset;
+	color: whitesmoke;
+}
+.btnbubu {
+	text-align: center;
+}
+.nav-link:hover {
+color: orange;
+}
+
+svg {
+	font-size: 30px;
+	color: whitesmoke;
+	margin-bottom: 30px;  
+}
+
+.svg {
+	margin-top: 150px;
+	text-align: center;
+}
+
+
+.card-father {
+	width: 100%;
+	text-align: center;
+	margin-top: 80px;
+}
+.card-father .card h5 {
+	text-align: center;
+	color: dimgray;
+}
+.card-father .card p {
+	color: dimgray;
+}
+.card {
+	margin-right: 15px;
+	display: inline-block;
+	border: unset;
+}
+.card img {
+	width: 50px;
+	text-align: center;
+}
+
+.ruxi {
+	background: lightgray;
+	width: 100%;
+	height: fit-content;
+	margin-top: 60px;
+	margin-bottom: 100px;
+}
+.ruxistitle {
+	margin-bottom: 50px;
+}
+.ruxistitle p{
+	margin-top: 50px;
+	color: dimgray;
+}
+.ruxistitle h1{
+	color: dimgray;
+}
+.superhr {
+	color:rgb(190, 180, 60,) ;
+	width: 40px;
+	border: 2px solid #AA973C;
+	margin:auto;
+	border-radius: 4px;
+}
+
+
+.ruxi .card {
+	background: transparent;
+}
+.ruxi .card .card-body h5 {
+	color: dimgray;
+	text-align: center;
+	font-family: fantasy;
+}
+.ruxi .card .card-body p {
+	color: gray;
+}
+.ruxi .card .card-body a {
+	color: rgb(170, 151, 60);
+}
+
+.jujguna {
+	font-size: 50px;
+}
+
